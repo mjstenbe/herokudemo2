@@ -1,0 +1,24 @@
+{
+  "name": "nasademo",
+  "version": "1.0.0",
+  "description": "Demosovellus NASA APIin",
+  "engines": {
+    "node": "12.x"
+  },
+  "main": "nasademo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node nasademo.js"
+  },
+  "keywords": [
+    "NASA",
+    "aPI",
+    "request"
+  ],
+  "author": "Mika",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "request": "^2.88.2"
+  }
+}
