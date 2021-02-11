@@ -14,7 +14,7 @@ request(
     // console.log(res);
     // console.log(body);
     // console.log(body.url);
-    // console.log(body.explanation);
+    console.log(body.explanation);
   }
 );
 
